@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahziyar
 - 👀 I’m interested in Web Programming and develope Wordpress
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 
 
 <!---
