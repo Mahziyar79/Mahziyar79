@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahziyar
-- 👀 I’m interested in Web Programming (react) and develope Wordpress
+- 👀 I’m interested in Web Programming (React.js & Next.js) 
 
 
 <!---
