@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Mahziyar
-- 👀 I’m interested in Web Programming (React.js & Next.js) 
+- 👀 Interested in Web Programming and Very Good Familiarity with Reactjs & Nextjs & Tailwindcss and Above
+     all of them I am a Very Motivated and Hardworking Person that can add more Motivation to your
+     Company. 
 - My Portfolio Page : https://mahziyar-portfolio.vercel.app
-
-
-<!---
-Mahziyar79/Mahziyar79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
